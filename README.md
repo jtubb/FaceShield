@@ -1,6 +1,6 @@
 # FaceShield
 
-Rapid prototype faceshield for frontline medical workers. The goal was to develop a faceshield that could be made quickly with materials not traditionally being consumed by other Covid-19 response efforts, easy to sanitize/replace parts, and keeping the price point under $5 per unit. When you're done you'll have a mold that can make ~25 visors in 15 minutes, timing the pours correctly you can cast them continuously. The mold can be reused thousands of times.
+Rapid prototype faceshield for frontline medical workers. The goal was to develop a face shield that could be made quickly with materials not traditionally being consumed by other Covid-19 response efforts, easy to sanitize/replace parts, and keeping the price point under $5 per unit. When you're done you'll have a mold that can make ~25 visors in 15 minutes, timing the pours correctly you can cast them continuously. The mold can be reused thousands of times.
 
 
 
@@ -126,7 +126,7 @@ Step 22. Attach elastic bands to the ear pieces and begin fitting the visor.
 
 # Shield Material
 
-I used a length of nichrome wire run between 2 hinged boards to make a simple plastic bender. Anything that can be used to heat the A4 PVC material to ~140-150 degF can be used. See the Plastic Folder designs for a simple arduino temperature controller and design.
+I used a length of nichrome wire run between 2 hinged boards to make a simple plastic bender. Anything that can heat the A4 PVC material to ~140-150 degF can be used. See the Plastic Folder directory for a simple arduino temperature controller and designs for the folder.
 
 From the landscape (hotdog) orentation, I created a 1/4" fold on the left and right side of the A4 PVC sheet. This will provide rigid edges for the mask. If using a small visor make a 1/2" fold on each side. Then on the top edge make a 90deg bend.
 
@@ -135,13 +135,15 @@ Alternatively if you don't want to bend the PVC you can apply staples along the 
 
 
 
-# Sanitization
+# Use and Sanitization
+
+Don the face shield per CDC recommendation (https://www.cdc.gov/vhf/ebola/hcp/ppe-training/n95respirator_gown/donning_13.html).
 
 
-If made with a urathane the visor can be sanitized in an autoclave, the foam strip will need to be removed for this.
+If made with a urathane resin the visor can be sanitized in an autoclave, the foam strip will need to be removed for this.
 
 
-The entire assembly can be sanitized with O2.
+If sanitizing with O2 the entire assembly can be placed in the sanitazation chamber.
 
 
 Elastic bands should be replaced every use.
