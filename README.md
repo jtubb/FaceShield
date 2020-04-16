@@ -4,7 +4,7 @@ Rapid prototype face shield for front line medical workers. The goal was to deve
 
 This project is released under the Creative Commons Zero Universal license. You may do whatever you like with these designs, my advice is work closely with the medical workers you will provide these too to make sure they are being used appropriately.
 
-For a quick video overview see: 
+For a quick video overview see: https://youtu.be/5g29kG8YU5k
 
 # Tools
 
