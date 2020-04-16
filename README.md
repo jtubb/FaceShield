@@ -6,7 +6,7 @@ Rapid prototype faceshield for frontline medical workers. The goal was to develo
 
 # Tools
 
-80W+ Laser Cutter with 20x20 bed, or printer+jigsaw.
+80W+ Laser Cutter with minimum 20"x20" bed, or printer+jigsaw.
 
 Table saw, or circular saw, or jigsaw, or handsaw.
 
@@ -70,9 +70,13 @@ You can also gain more efficency by using the blank to create more than one mold
 # Directions
 
 
-If your laser bed is 20" square you can skip to Step 2 and use the "20InchBedOptimizedLayout.dxf"
+If your laser bed is 20" square you can skip to Step 2 and just use the "20InchBedOptimizedLayout.dxf"
 
 Step 1. Import the varius sizes of Faceshield DXF into DeepNest. The only setting I changed was to increase Part Rotations to 16 and clearance to 4mm. Set a bounding box appropriate for your laser bed.
+
+![Import](https://github.com/jtubb/FaceShield/images/DeepNestImport.png)
+
+![Settings](https://github.com/jtubb/FaceShield/images/DeepNestSettings.png)
 
 Step 2. Pull the optimized part layout into your lasercutting software of choice, I use Lightburn. Begin the cut. For MDF my speed+feed for an 80W laser is 7mm/s at 40%power.
 
