@@ -15,6 +15,11 @@ Mixing pot - Cheap stainless steel pot
 Mixing utinsil - I used a cheap silicon spatula
 
 
+# Software
+
+
+DeepNest.IO - https://github.com/Jack000/Deepnest
+
 
 # Materials
 
@@ -64,6 +69,8 @@ You can also gain more efficency by using the blank to create more than one mold
 
 # Directions
 
+
+If your laser bed is 20" square you can skip to Step 2 and use the "20InchBedOptimizedLayout.dxf"
 
 Step 1. Import the varius sizes of Faceshield DXF into DeepNest. The only setting I changed was to increase Part Rotations to 16 and clearance to 4mm. Set a bounding box appropriate for your laser bed.
 
@@ -115,7 +122,7 @@ Step 22. Attach elastic bands to the ear pieces and begin fitting the visor.
 
 # Shield Material
 
-I used a length of nichrome wire run between 2 hinged boards to make a simple plastic bender. Anything that can be used to heat the A4 PVC material to ~140-150 degF can be used.
+I used a length of nichrome wire run between 2 hinged boards to make a simple plastic bender. Anything that can be used to heat the A4 PVC material to ~140-150 degF can be used. See the Plastic Folder designs for a simple arduino temperature controller and design.
 
 From the landscape (hotdog) orentation, I created a 1/4" fold on the left and right side of the A4 PVC sheet. This will provide rigid edges for the mask. If using a small visor make a 1/2" fold on each side. Then on the top edge make a 90deg bend.
 
