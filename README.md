@@ -74,9 +74,9 @@ If your laser bed is 20" square you can skip to Step 2 and just use the "20InchB
 
 Step 1. Import the varius sizes of Faceshield DXF into DeepNest. The only setting I changed was to increase Part Rotations to 16 and clearance to 4mm. Set a bounding box appropriate for your laser bed.
 
-![Import](https://github.com/jtubb/FaceShield/images/DeepNestImport.png)
+![Import](https://github.com/jtubb/FaceShield/blob/master/images/DeepNestImport.png)
 
-![Settings](https://github.com/jtubb/FaceShield/images/DeepNestSettings.png)
+![Settings](https://github.com/jtubb/FaceShield/blob/master/images/DeepNestSettings.png)
 
 Step 2. Pull the optimized part layout into your lasercutting software of choice, I use Lightburn. Begin the cut. For MDF my speed+feed for an 80W laser is 7mm/s at 40%power.
 
