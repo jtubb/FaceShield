@@ -2,12 +2,19 @@
 
 Rapid prototype faceshield for frontline medical workers. The goal was to develop a faceshield that could be made quickly with materials not traditionally being consumed by other Covid-19 response efforts, easy to sanitize/replace parts, and keeping the price point under $5 per unit. When you're done you'll have a mold that can make ~25 visors in 15 minutes, timing the pours correctly you can cast them continuously. The mold can be reused thousands of times.
 
+
+
 # Tools
 
 80W+ Laser Cutter with 20x20 bed, or printer+jigsaw.
+
 Table saw, or circular saw, or jigsaw, or handsaw.
+
 Mixing pot - Cheap stainless steel pot
+
 Mixing utinsil - I used a cheap silicon spatula
+
+
 
 # Materials
 
@@ -51,6 +58,8 @@ Price per unit Batch 4 $3270/2480 = $1.32
 
 
 You can also gain more efficency by using the blank to create more than one mold.
+
+
 
 
 # Directions
@@ -102,6 +111,8 @@ Step 21. Insert PVC shield material into the visor channel.
 
 Step 22. Attach elastic bands to the ear pieces and begin fitting the visor.
 
+
+
 # Shield Material
 
 I used a length of nichrome wire run between 2 hinged boards to make a simple plastic bender. Anything that can be used to heat the A4 PVC material to ~140-150 degF can be used.
@@ -109,6 +120,9 @@ I used a length of nichrome wire run between 2 hinged boards to make a simple pl
 From the landscape (hotdog) orentation, I created a 1/4" fold on the left and right side of the A4 PVC sheet. This will provide rigid edges for the mask. If using a small visor make a 1/2" fold on each side. Then on the top edge make a 90deg bend.
 
 Alternatively if you don't want to bend the PVC you can apply staples along the top edge of the sheet.
+
+
+
 
 # Sanitization
 
